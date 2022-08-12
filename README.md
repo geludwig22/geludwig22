@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Jorge
+### Hi there 👋 I'm Jorge
 
 <!--
 **geludwig22/geludwig22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
